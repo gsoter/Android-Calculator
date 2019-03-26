@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CalculadoraApp</string>
+    <string name="strDisplay" translatable="false">0</string>
+    <string name="strClear">C</string>
+    <string name="strSinal">+/-</string>
+    <string name="strPercent">%</string>
+    <string name="strDivisor">/</string>
+    <string name="strSete">7</string>
+    <string name="strOito">8</string>
+    <string name="strNove">9</string>
+    <string name="strMultiply">x</string>
+    <string name="strQuatro">4</string>
+    <string name="strCinco">5</string>
+    <string name="strSeis">6</string>
+    <string name="strSubtrair">-</string>
+    <string name="strUm">1</string>
+    <string name="strDois">2</string>
+    <string name="strTres">3</string>
+    <string name="strAdicao">+</string>
+    <string name="strZero">0</string>
+    <string name="strFloat">.</string>
+    <string name="strResult">=</string>
+    <string name="title_MainActivity">Calculadora</string>
+</resources>
